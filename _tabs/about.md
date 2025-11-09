@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am a mechanic, engineer, tinkerer, maker and breaker. 
+The autodidact:
+a mechanic, engineer, tinkerer, maker and breaker. 
 
 You may find evidence of that here. 
