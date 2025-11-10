@@ -14,7 +14,7 @@ These ports are assigned system ports that. They are used by system processes th
 
 |Port|Description|
 |---|---|
-|20 | FTP - File Transfer Protocol (data transfer). A standard communication protocol used for the transfer of computer files from server to client.|
+|20 | FTP - File Transfer Protocol (data transfer). A standard communication protocol used for the transfer <br> of computer files from server to client.|
 |21 | FTP - File Transfer Protocol (command). This port is used as the control channel for sending commands and receiving responses between FTP client and server.|
 |22 | SSH - Secure Shell. A cryptographic network protocol for operating network services securely. Notable applications are remove login and command line execution.|
 | 23 | Telnet - Unencrypted text communications. Should not be used for applications such as remote management as all information is transferred in plain text.|
@@ -36,7 +36,7 @@ These ports are assigned system ports that. They are used by system processes th
 | 989 | FTPS - FTP over TLS/SSL protocol, data transfer. |
 | 990 | FTPS - FTP over TLS/SSL protocol, control. |
 
-# Registered ports.
+## Registered ports.
 Ports 1024 - 49151.
 
 These ports are a dynamic port number that are assigned by IANA (Internet Assigned Numbers Authority) for specific services upon application by a requesting entity. 
