@@ -7,10 +7,11 @@ A useful reference for ports with their names and functions/services that they s
  There are 3 main categories of ports.
     
 ## Well known ports.
-    Ports 0 - 1023.
+Ports 0 - 1023.
+
 These ports are assigned system ports that. They are used by system processes that use types of network services.
 
----
+
 |Port|Description|
 |---|---|
 |20 | FTP - File Transfer Protocol (data transfer). A standard communication protocol used for the transfer of computer files from server to client.|
@@ -36,7 +37,7 @@ These ports are assigned system ports that. They are used by system processes th
 | 990 | FTPS - FTP over TLS/SSL protocol, control. |
 
 # Registered ports.
-    Ports 1024 - 49151.
+Ports 1024 - 49151.
 
 These ports are a dynamic port number that are assigned by IANA (Internet Assigned Numbers Authority) for specific services upon application by a requesting entity. 
 
@@ -54,6 +55,7 @@ These applications have a wide range of functions from security tools to video g
 These are just a few examples.
 
 ## Dynamic, Private or Ephemeral ports.
-    Ports 49152 - 65535.
+Ports 49152 - 65535.
+
 These are private or dynamic ports that cannot be registered with IANA. These are used for private or customized services.
 Some of these ports are commonly used by well known entities and considered standardized though not official. 
